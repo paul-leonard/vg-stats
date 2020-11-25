@@ -2,7 +2,7 @@
 A Jupyter notebook using pandas to explore video game sales data.
 
 ## Lab Submission Pull Requests
-[Lab12: vg-stats](https://github.com/paul-leonard/chess-board/pull/1)
+[Lab12: vg-stats](https://github.com/paul-leonard/vg-stats/pull/1)
 
 ## Release Info
 **Author**: Paul Leonard
